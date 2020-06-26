@@ -380,13 +380,7 @@ namespace labaosisp2
         private void Seril_Click(object sender, EventArgs e)
         {
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
-            {
-
-              //  IPlugin plug= comboBox3.Items[1] as IPlugin;
-           
-          //      string sssss = plug.Encrypt("ОВОЩЬ SOSI");
-             //   string rrrrrr= plug.Decrypt(sssss);
-                
+            {              
                 List<object> list = new List<object>();
                 for (int i = 0; i < listBox1.Items.Count; i++)
                 {
