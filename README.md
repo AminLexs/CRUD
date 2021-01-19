@@ -1,2 +1,2 @@
-# POITOOTSISP4lab
-Два плагина на шифрование, интерфейс и сам проект.
+# POIT_OOTSISP_Part1
+Simple CRUD, serializers and two encryption plugins.
